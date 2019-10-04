@@ -2,4 +2,5 @@
 int main()
 {
   printf("Hello world\n");
+  printf("I Love India\n");
 }
